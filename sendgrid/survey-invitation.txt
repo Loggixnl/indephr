@@ -1,0 +1,32 @@
+IndepHR - Honest voices. Stronger organisations.
+
+--------------------------------------------
+
+Hi {{first_name}},
+
+{{company_name}} values your perspective and wants to hear from you. You're invited to participate in our {{survey_name}}.
+
+YOUR RESPONSES ARE 100% ANONYMOUS
+Your feedback cannot be traced back to you.
+
+WHY YOUR FEEDBACK MATTERS
+Your honest input helps us understand what's working well and where we can improve. Together, we can create a better workplace for everyone.
+
+SURVEY DETAILS
+- Estimated time: {{estimated_time}}
+- Deadline: {{deadline}}
+
+START THE SURVEY
+{{survey_url}}
+
+--------------------------------------------
+
+This survey is powered by IndepHR (https://indephr.com) - the AI-assisted feedback platform that helps organisations truly listen to their people.
+
+Questions? Contact your HR department or reply to this email.
+
+--------------------------------------------
+
+© {{current_year}} IndepHR. All rights reserved.
+Privacy Policy: {{privacy_url}}
+Unsubscribe: {{unsubscribe_url}}
