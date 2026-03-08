@@ -38,6 +38,14 @@ const navLinks = [
           >
             Get a Demo
           </a>
+          <a
+            href="https://indephr.clientportal.cloud/#/"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="bg-indep-purple text-white px-5 py-2 rounded-lg font-semibold hover:bg-indep-violet transition-colors"
+          >
+            Login
+          </a>
         </div>
 
         <!-- Mobile menu button -->
@@ -83,6 +91,15 @@ const navLinks = [
             @click="isMenuOpen = false"
           >
             Get a Demo
+          </a>
+          <a
+            href="https://indephr.clientportal.cloud/#/"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="bg-indep-purple text-white px-5 py-2 rounded-lg font-semibold hover:bg-indep-violet transition-colors text-center"
+            @click="isMenuOpen = false"
+          >
+            Login
           </a>
         </div>
       </div>
