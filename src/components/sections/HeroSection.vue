@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import procesImage from '../../assets/proces.png'
+import procesImage from '../../assets/indephr_process.png'
 </script>
 
 <template>
