@@ -1,7 +1,3 @@
-<script setup lang="ts">
-import procesImage from '../../assets/indephr_process.svg'
-</script>
-
 <template>
   <section class="bg-gradient-to-br from-indep-blue to-indep-purple text-white py-20 lg:py-32">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -30,7 +26,11 @@ import procesImage from '../../assets/indephr_process.svg'
           </div>
         </div>
         <div class="hidden lg:flex justify-center">
-          <img :src="procesImage" alt="IndepHR Feedback Process" class="max-w-full h-auto" />
+          <div class="w-80 h-80 bg-white/10 rounded-full flex items-center justify-center">
+            <div class="w-60 h-60 bg-white/10 rounded-full flex items-center justify-center">
+              <div class="w-40 h-40 bg-indep-orange/30 rounded-full"></div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
