@@ -32,7 +32,7 @@
             </div>
           </div>
           <img
-            src="@/assets/flow.png"
+            src="../../assets/flow.png"
             alt="Survey to Report Flow"
             class="absolute inset-0 w-full h-auto object-contain z-10 m-auto"
           />
