@@ -25,12 +25,17 @@
             </a>
           </div>
         </div>
-        <div class="hidden lg:flex justify-center">
+        <div class="hidden lg:flex justify-center relative">
           <div class="w-80 h-80 bg-white/10 rounded-full flex items-center justify-center">
             <div class="w-60 h-60 bg-white/10 rounded-full flex items-center justify-center">
               <div class="w-40 h-40 bg-indep-orange/30 rounded-full"></div>
             </div>
           </div>
+          <img
+            src="@/assets/flow.png"
+            alt="Survey to Report Flow"
+            class="absolute inset-0 w-full h-auto object-contain z-10 m-auto"
+          />
         </div>
       </div>
     </div>
